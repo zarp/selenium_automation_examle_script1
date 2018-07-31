@@ -1,1 +1,1 @@
-Example of a simple Selenium-based automation script. Actual URLs are replaced with obfuscated ones
+Example of a simple Selenium-based automation script. Actual URLs were replaced with obfuscated ones
